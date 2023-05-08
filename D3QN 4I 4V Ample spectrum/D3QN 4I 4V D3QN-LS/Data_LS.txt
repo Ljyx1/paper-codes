@@ -1,0 +1,16 @@
+
+current_time:    2023-05-05 23:48:01.841980
+### The size is 10.0
+### The episode_cost is 0
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.8859 Mbps
+Pr(V2V): 0.9625
+
+current_time:    2023-05-05 23:53:28.409358
+### The size is 10.0
+### The episode_cost is 0
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 25.2263 Mbps
+Pr(V2V): 0.775
